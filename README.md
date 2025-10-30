@@ -24,7 +24,3 @@ L1 SOC demo: Detect high-CPU malware with htop &amp; escalate alerts
 
 ---
 
-## Quick Run
-```bash
-./scripts/monitor_cpu.sh Brave
-./scripts/generate_alert.sh 22017 60.2
